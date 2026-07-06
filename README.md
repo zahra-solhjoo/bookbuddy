@@ -9,6 +9,7 @@
 ![CLI](https://img.shields.io/badge/CLI-Application-orange?style=for-the-badge)
 ![JSON](https://img.shields.io/badge/Storage-JSON-blue?style=for-the-badge)
 ![Pickle](https://img.shields.io/badge/Storage-Pickle-lightgrey?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 A command-line application for managing books, tracking reading progress,
 and exporting/importing data using clean Object-Oriented Programming principles.
