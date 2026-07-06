@@ -142,7 +142,6 @@ python main.py
 
 - Python 3.10+
 - colorama
-- pytest
 
 ---
 
