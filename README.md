@@ -123,7 +123,7 @@ python main.py
 
 > screenshots/main_menu.png
 
-![Main Menu](screenshots/main_menu.png)
+![Main Menu](main_menu.png)
 
 ---
 
@@ -131,7 +131,7 @@ python main.py
 
 > screenshots/books.png
 
-![Books](screenshots/books.png)
+![Books](books.png)
 
 ---
 
@@ -139,7 +139,7 @@ python main.py
 
 > screenshots/statistics.png
 
-![Statistics](screenshots/statistics.png)
+![Statistics](statistics.png)
 
 ---
 
