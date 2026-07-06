@@ -47,13 +47,10 @@ bookbuddy/
 ├── services/
 ├── storage/
 ├── utils/
-├── tests/
 │
 ├── main.py
 ├── README.md
-├── requirements.txt
-├── Dockerfile
-└── .gitignore
+└──requirements.txt
 ```
 
 ---
@@ -121,7 +118,6 @@ python main.py
 
 ## Main Menu
 
-> screenshots/main_menu.png
 
 ![Main Menu](main_menu.png)
 
@@ -129,7 +125,6 @@ python main.py
 
 ## Books
 
-> screenshots/books.png
 
 ![Books](books.png)
 
@@ -137,17 +132,9 @@ python main.py
 
 ## Statistics
 
-> screenshots/statistics.png
 
 ![Statistics](statistics.png)
 
----
-
-# 🧪 Run Tests
-
-```bash
-pytest
-```
 
 ---
 
